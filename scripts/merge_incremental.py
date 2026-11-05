@@ -75,7 +75,7 @@ def fetch_recent_pass(
     session: requests.Session,
 ) -> list[dict]:
     out, page = [], 1
-    while True:
+    while page <= 100:
         resp = session.post(
             ENDPOINT,
             json={
