@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-11-21T12:06:46Z",
-  "anime_count": 20843,
-  "manga_count": 132737,
+  "last_updated": "2026-11-22T11:31:14Z",
+  "anime_count": 20856,
+  "manga_count": 132968,
   "anime_shards": 5,
   "manga_shards": 27,
   "shard_size": 5000,
